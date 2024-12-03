@@ -1,0 +1,8 @@
+## Interface: 11505
+## Title: EnergyWatch
+## Notes: Displays an energy regen bar for timing energy ticks.
+## Author: KindreDK
+## Version: 1.0
+## DefaultEnabled: 1
+## SavedVariables: EnergyWatchDB
+EnergyWatch.lua
